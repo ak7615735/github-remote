@@ -1,12 +1,12 @@
-#add
+#add impl
 def add(x,y):
     return x+y
-#mul
+#mul impl
 def mul(x,y):
     pass
-#sub
+#sub impl
 def sub(x,y):
     pass
-#div
+#div impl
 def div(x,y):
     pass
